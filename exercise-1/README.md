@@ -10,3 +10,6 @@ about the quote. When you push your changes back up to GitHub, you
 will see the rendered markdown file.
 
 See `complete` branch for an example.
+
+Do or do not. There is no try. —Yoda
+[Information on Yoda](https://en.wikipedia.org/wiki/Yoda#Feature_films)
